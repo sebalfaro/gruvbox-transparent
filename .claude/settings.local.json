@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent/colors/mytheme.lua /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent/colors/gruvbox-transparent.lua)",
+      "Bash(git -C /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent rm colors/mytheme.lua)",
+      "Bash(git -C /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent mv colors/mytheme.lua colors/gruvbox-transparent.lua)",
+      "Bash(git -C /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent status)",
+      "Bash(mv /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent/colors/mytheme.lua /Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent/colors/gruvbox-transparent.lua)"
+    ],
+    "additionalDirectories": [
+      "/Users/sebastianalfaro/Documents/projects/Code/gruvbox-transparent/colors"
+    ]
+  }
+}
